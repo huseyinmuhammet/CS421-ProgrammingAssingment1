@@ -1,3 +1,4 @@
+# This code provided by TA of CS421 lecture in Bilkent University
 # -*- coding: utf-8 -*-
 import socket
 import random
